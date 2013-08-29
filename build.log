@@ -1,0 +1,26 @@
+Logfile initialized
+[INFO] logfile = /Volumes/Datos/Workspaces/Titanium Studio Workspace/RepostajeAndroid/build.log
+[DEBUG] /Users/Marcos/Library/Application Support/Titanium/mobilesdk/osx/2.1.1.GA/android/builder.py simulator RepostajeAndroid /Applications/android-sdk-macosx /Volumes/Datos/Workspaces/Titanium Studio Workspace/RepostajeAndroid com.mutantia.RepostajeAndroid 8 WVGA854 
+[INFO] Building RepostajeAndroid for Android ... one moment
+[INFO] Titanium SDK version: 2.1.1 (07/27/12 14:01 0fd84a2)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.015421 seconds on emulator to get ready
+[DEBUG] com.mutantia.RepostajeAndroid installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Volumes/Datos/Workspaces/Titanium Studio Workspace/RepostajeAndroid/Resources/lib/CurrentPosicion.js => /Volumes/Datos/Workspaces/Titanium Studio Workspace/RepostajeAndroid/build/android/bin/assets/Resources/lib/CurrentPosicion.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found special platform files dir = /Volumes/Datos/Workspaces/Titanium Studio Workspace/RepostajeAndroid/platform/android
+[INFO] Copying platform-specific files ...
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... RepostajeAndroid
+[INFO] Launching application ... RepostajeAndroid
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.mutantia.RepostajeAndroid/.RepostajeandroidActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[DEBUG] signal caught: 15
+[DEBUG] calling emulator kill on 7067
