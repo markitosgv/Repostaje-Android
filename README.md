@@ -10,6 +10,6 @@
 
 You can visit official app website here: [Gesdinet](<http://www.gesdinet.com/repostaje>)
 
-iOS version code is here <https://github.com/markitosgv/Repostaje-Android>
+iOS version code is here <https://github.com/markitosgv/Repostaje>
 
 
